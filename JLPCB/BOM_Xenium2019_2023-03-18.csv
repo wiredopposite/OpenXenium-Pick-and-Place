@@ -1,8 +1,0 @@
-﻿ID	Name	Designator	Footprint	Quantity	Manufacturer Part	Manufacturer	Supplier	Supplier Part	Price
-"1"	"100n"	"C1,C2"	"C0603"	"2"	""	"Samsung Electro-Mechanics"	"LCSC"	"C1591"	""
-"2"	"10u"	"C4"	"C0603"	"1"	""	"Samsung Electro-Mechanics"	"LCSC"	"C1691"	"0.001"
-"3"	"1k"	"R5"	"R0603"	"1"	""	"YAGEO"	"LCSC"	"C22548"	""
-"4"	"310mA/60V/1.6Ω"	"Q1,Q2,Q4,Q3"	"SOT-23"	"4"	"SM2312SRL"	"SPS"	"LCSC"	"C496598"	"0.059"
-"5"	"68"	"R1,R2,R3"	"R0603"	"3"	""	"PANASONIC"	"LCSC"	"C543219"	"0.009"
-"6"	"19-237/R6GHBHC-A07/2T"	"L1"	"4-SMD-R6GHBHC"	"1"	""	"Everlight Elec"	"LCSC"	"C264511"	"0.021"
-"7"	"SM10B-SRSS-TB"	"J1"	"SM10B-SRSS-TB"	"1"	""	"JST Sales America"	"LCSC"	"C160409"	"0.068"
